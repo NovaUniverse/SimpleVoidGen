@@ -1,0 +1,8 @@
+main: net.novauniverse.simplevoidgen.SimpleVoidGen
+name: SimpleVoidGen
+description: Void world generation in light weight plugin
+version: 1.0.0
+load: STARTUP
+api-version: 1.13
+authors: [Zeeraa, NovaUniverse]
+website: novauniverse.net
